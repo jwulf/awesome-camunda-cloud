@@ -21,15 +21,15 @@
   * Instructions to connect to Camunda Cloud are [here](http://zeebe.joshwulf.com/zbclient/connection/camunda-cloud/)
 * Java: [Docs](https://docs.zeebe.io/clients/java-client/)
 * Go: [Docs](https://docs.zeebe.io/clients/go-client/)
-* Zeebe Control: [GitHub Repo](https://github.com/jwulf/zbctl) and [npm module](https://www.npmjs.com/package/zbctl)
-* Other community supported: [Docs](https://docs.zeebe.io/clients/other-clients/)
+* Zeebe CLI Client: [GitHub Repo](https://github.com/jwulf/zbctl) and [npm module](https://www.npmjs.com/package/zbctl)
+* Other community supported (Node.js, Python, Ruby, C#, Rust): [Docs](https://docs.zeebe.io/clients/other-clients/)
   
 ## Use-cases
 
 A List of Links to resources for getting started and winning with Camunda Cloud
 
 * [Test Drive Camunda Cloud from GitHub](https://github.com/jwulf/camunda-cloud-test-drive): Test drive Camunda Cloud in 30 minutes using just a fork of this repo.
-  * Blog post: [Complex multi-repo builds with GitHub Actions and Camunda Cloud](https://zeebe.io/blog/2020/02/camunda-cloud-github-actions/)
+* Blog post: [Complex multi-repo builds with GitHub Actions and Camunda Cloud](https://zeebe.io/blog/2020/02/camunda-cloud-github-actions/)
 * [Camunda-Cloud-App-Template](https://github.com/Zelldon/Camunda-Cloud-App-Template): This repository contains an template to create a Spring Boot Application which can be deployed on kubernetes and uses Camunda Cloud to execute BPMN Workflows.
 * [Cloudflare Zero-Scale Slack Worker for Camunda Cloud](https://github.com/jwulf/slack-cloud-worker): This is a Cloudflare worker that provides a zero-scale Slack messaging task for Camunda Cloud, using the Camunda Cloud HTTP Worker.
 * [Order process with zeebe and Camunda Cloud](https://github.com/urbanisierung/order-process-with-zeebe): Easily build an order process with Zeebe in Camunda Cloud and orchestrate services via the built-in http worker. Learn how to deploy your own serverless functions and orchestrate them with Zeebe.
